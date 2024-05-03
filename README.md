@@ -1,4 +1,4 @@
-![migera](https://github.com/Pekhov14/migera/assets/24500560/72604e50-04d2-4ef1-b18c-a0e665180162)
+![migera](https://github.com/Pekhov14/migera/assets/24500560/7c6f8237-7e7c-4650-b46f-43df5c4e04f7)
 
 # Migera
 
