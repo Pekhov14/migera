@@ -7,3 +7,9 @@
 
 
 
+### Idea MiGeRa
+
+Migration Generation  Resilience
+
+
+> composer require pekhov/migera
